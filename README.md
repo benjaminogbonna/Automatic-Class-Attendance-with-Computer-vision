@@ -1,2 +1,2 @@
-# Authomatic Class Attendance with CNN
+# Automatic Class Attendance with Computer vision
 
